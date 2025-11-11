@@ -1,0 +1,9 @@
+rollno,name,present,absent
+101,Vishesh,present
+102,Rahul,present
+104,Simran,present
+107,Raj,present
+109,Arjun,present
+110,Neha,present
+112,Divya,present
+113,Harsh,present
